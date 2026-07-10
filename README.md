@@ -40,6 +40,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahdi-davoudi\&color=red)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi-davoudi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-davoudi&layout=compact&theme=radical)
